@@ -1,0 +1,20 @@
+{
+    "name": "GitHub Profile Stats",
+    "version": "1.0.0",
+    "description": "A  extension that shows the developer stats of a given repository",
+    "homepage_url": "https://github.com/JoseRodrigues443/github-profile-stats-browser-extension",
+    "author": "JoseRodrigues443",
+    "manifest_version": 2,
+    "chrome_url_overrides" : {  "newtab": "newtab.html"},
+    "permissions": ["activeTab"],
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": "tab-icon.png",
+        "default_title": "Have a good day" 
+    },
+    "icons": {
+        "16": "assets/icon.16.jpg",
+        "48": "assets/icon.48.jpg",
+        "128": "assets/icon.128.jpg"
+    }
+}
