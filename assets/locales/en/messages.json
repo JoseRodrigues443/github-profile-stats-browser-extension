@@ -1,0 +1,11 @@
+{
+    "appName": {
+        "message": "GitHub Profile Stats"
+    },
+    "appShortName": {
+        "message": "GitHub Profile Stats"
+    },
+    "appDescription": {
+        "message": "A extension that shows the developer stats of a given repository"
+    }
+}
