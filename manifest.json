@@ -5,12 +5,8 @@
     "homepage_url": "https://github.com/JoseRodrigues443/github-profile-stats-browser-extension",
     "author": "JoseRodrigues443",
     "manifest_version": 2,
-    "chrome_url_overrides" : {  "newtab": "newtab.html"},
-    "permissions": ["activeTab"],
     "browser_action": {
-        "default_popup": "popup.html",
-        "default_icon": "tab-icon.png",
-        "default_title": "Have a good day" 
+        "default_popup": "popup.html"
     },
     "icons": {
         "16": "assets/icon.16.jpg",

@@ -1,0 +1,19 @@
+{
+  "name": "github-profile-stats-browser-extension",
+  "version": "1.0.0",
+  "description": "A extension that shows the developer stats of a given repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseRodrigues443/github-profile-stats-browser-extension.git"
+  },
+  "author": "JoseRodrigues443",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/JoseRodrigues443/github-profile-stats-browser-extension/issues"
+  },
+  "homepage": "https://github.com/JoseRodrigues443/github-profile-stats-browser-extension#readme"
+}
