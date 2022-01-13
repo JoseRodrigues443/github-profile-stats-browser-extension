@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JoseRodrigues443/github-profile-stats-browser-extension/issues"
   },
-  "homepage": "https://github.com/JoseRodrigues443/github-profile-stats-browser-extension#readme"
+  "homepage": "https://github.com/JoseRodrigues443/github-profile-stats-browser-extension#readme",
+  "dependencies": {
+    "@octokit/rest": "^18.12.0"
+  }
 }
