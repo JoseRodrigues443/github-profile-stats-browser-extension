@@ -1,0 +1,13 @@
+.base {
+    height: 200px;
+    width: 200px;
+}
+
+html,
+body,
+pre,
+code,
+kbd,
+samp {
+    font-family: Press Start 2P, Gill Sans Extrabold, sans-serif;;
+}

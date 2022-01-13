@@ -2,9 +2,8 @@
   "name": "github-profile-stats-browser-extension",
   "version": "1.0.0",
   "description": "A extension that shows the developer stats of a given repository",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "cd ui && npm i && npm build"
   },
   "repository": {
     "type": "git",
@@ -17,6 +16,7 @@
   },
   "homepage": "https://github.com/JoseRodrigues443/github-profile-stats-browser-extension#readme",
   "dependencies": {
-    "@octokit/rest": "^18.12.0"
+    "@octokit/rest": "^18.12.0",
+    "nes.css": "^2.3.0"
   }
 }
